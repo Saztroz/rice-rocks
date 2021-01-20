@@ -1,1 +1,1 @@
-# rice-rocks
+Implementation of ASTROIDS arcade game
